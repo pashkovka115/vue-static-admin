@@ -1,0 +1,7 @@
+<?php
+return [
+    'login' => '',
+    'password' => '',
+    'base_dir' => '../../',
+    'base_url' => rtrim('http://mysite.ru', '/'),
+];
